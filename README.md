@@ -25,9 +25,9 @@ I am Farah, an aspiring developer majoring in Computer Engineering at the Americ
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amrwaleedhelmy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amrwaleedhelmy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrwaleedhelmy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=farahhkh&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=farahhkh&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farahhkh&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 *Please take a look at my repositories here.*
