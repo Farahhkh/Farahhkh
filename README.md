@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Farah, an aspiring developer majoring in Computer Engineering at the American University of Bahrain (AUBH) & who enjoys iOS development.
+I am Farah, an aspiring developer & soon-to-be computer engineering graduate!
 
 # 💻 Skills:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
