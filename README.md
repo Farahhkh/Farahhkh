@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Farah, an aspiring developer & soon-to-be computer engineering graduate!
+I am Farah, an aspiring developer & computer engineering graduate!
 
 # 💻 Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
