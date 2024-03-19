@@ -36,6 +36,7 @@ I am Farah, an aspiring developer & computer engineering graduate!
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Web Tools:
+![Thunder Client](https://img.shields.io/badge/Thunder%20Client-%23607C8E.svg?style=for-the-badge&logo=thunderclient&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Bash Scripting](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
