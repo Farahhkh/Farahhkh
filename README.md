@@ -34,6 +34,5 @@ I am Farah, an aspiring developer & computer engineering graduate!
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=farahhkh&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=farahhkh&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=farahhkh&hide_border=false)![](https://github-readme-stats.vercel.app/api?username=farahhkh&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farahhkh&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
