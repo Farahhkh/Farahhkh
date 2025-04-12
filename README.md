@@ -39,6 +39,9 @@ I am Farah, an aspiring developer & computer engineering graduate!
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
 
+  <!-- Express -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
 
@@ -60,6 +63,9 @@ I am Farah, an aspiring developer & computer engineering graduate!
   <!-- Arduino -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" />
 
+  <!-- Embedded C -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/c-programming.png" width="40" height="40" alt="Embedded C" />
+
   <!-- Raspberry Pi -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi" />
 
@@ -68,6 +74,30 @@ I am Farah, an aspiring developer & computer engineering graduate!
 
   <!-- x86 Assembly -->
   <img src="https://img.icons8.com/?size=100&id=55186&format=png&color=000000" width="40" height="40" alt="x86 Assembly" />
+
+  <!-- Visual Studio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
+
+  <!-- Visual Studio Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+
+  <!-- Xcode -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40" alt="Xcode" />
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+
+  <!-- Eclipse -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse" />
+
+  <!-- Safari -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/safari.png" width="40" height="40" alt="Safari" />
+
+  <!-- Google -->
+  <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="40" height="40" alt="Google" />
 
 </p>
 
