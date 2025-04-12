@@ -64,7 +64,7 @@ I am Farah, an aspiring developer & computer engineering graduate!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" />
 
   <!-- Embedded C -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/c-programming.png" width="40" height="40" alt="Embedded C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40" alt="Embedded C" />
 
   <!-- Raspberry Pi -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi" />
