@@ -60,14 +60,14 @@ I am Farah, an aspiring developer & computer engineering graduate!
   <!-- macOS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="macOS" />
 
+  <!-- Raspberry Pi -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi" />
+
   <!-- Arduino -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" />
 
   <!-- Embedded C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40" alt="Embedded C" />
-
-  <!-- Raspberry Pi -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi" />
 
   <!-- VHDL (Custom or placeholder icon) -->
   <img src="https://github.com/user-attachments/assets/9163daff-af49-405b-a206-44958cf8818b" width="40" height="40" alt="VHDL" />
